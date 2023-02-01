@@ -7,9 +7,9 @@ S'aventurant dans les profondeurs de la montagne, plus loin qu'aucun autre nain 
 Bien plus tard, pendant une période marquée par les trahisons et la vilénie, la hache fut perdue au cours d'une guerre civile sanglante fomentée par des êtres avides de son pouvoir et du statut qu'elle conférait. Des siècles ont passé, les nains cherchent encore la hache, et bon nombre d'aventuriers ont passé leur carrière à traquer les rumeurs et piller d'anciennes cryptes dans l'espoir de la trouver.
 Arme magique. La Hache des seigneurs nains est une arme magique qui confère un bonus de +3 aux jets d'attaque et de dégâts effectués avec elle. La hache fonctionne également comme un ceinturon des nains, un marteau de lancer nain et une épée tranchante.
 Propriétés aléatoires. La hache possède un certain nombre de propriétés déterminées aléatoirement :
-• +101 propriétés bénéfiques mineures
-• +50(???) propriété bénéfique majeure
-• +450 propriétés néfastes mineures
+• 1.5 propriétés bénéfiques mineures
+• 0.75 propriété bénéfique majeure
+• 2 propriétés néfastes mineures
 Bénédiction de Moradin. Si vous êtes un nain lié à la hache, vous gagnez les bénéfices suivants :
 • Vous êtes immunisés aux dégâts de poison.
 • La portée de votre vision dans le noir augmente de 18 mètres.
