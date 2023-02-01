@@ -1,6 +1,6 @@
 Bâton de surpuissance
 [ Staff of Power ]
-Bâton, très rare (nécessite un lien avec un ensorceleur, un magicien ou un occultiste)
+Bâton en métal du futur, très rare (nécessite un lien avec un ensorceleur, un magicien ou un occultiste)
 Ce bâton peut être utilisé comme un bâton (arme) magique conférant un bonus de +2 aux jets d'attaque et de dégâts effectués avec lui. Tant que vous le tenez, vous gagnez un bonus de +2 à la Classe d'Armure, aux jets de sauvegarde, et aux jets d'attaque avec un sort.
 Le bâton possède 20 charges pour les propriétés suivantes. Le bâton récupère 2d8 + 4 charges dépensées chaque jour à l'aube. Si vous dépensez la dernière charge, lancez un d20. Sur un résultat de 1, le bâton conserve son bonus de +2 aux jets d'attaque et de dégâts mais perd toutes ses autres propriétés. Sur un résultat de 20, le bâton récupère 1d8 + 2 charges.
 Frappe surpuissante. Lorsque vous touchez lors d'une attaque au corps à corps en utilisant le bâton, vous pouvez dépenser 1 charge pour infliger 1d6 dégâts de force supplémentaires à la cible.
